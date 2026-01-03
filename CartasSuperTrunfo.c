@@ -9,12 +9,10 @@ int main() {
   
 // VARIÁVEIS
   char state;
-  char cardNumber[2];
-  char cityName[10];
-  int population;
-  float areaKm;
-  float pIB;
-  int turisticPoints;
+  char cardNumber[2], cityName[10];
+  int population, turisticPoints;
+  float areaKm, pIB;
+
 
 // CHAMADAS
   printf("Insira uma LETRA (de 'A' a 'H') para estado:\n");
